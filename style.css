@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(150, 5, 41);
+    padding: 30px;
+}
+
+ * {
+    border: solid;
+} 
+
+.header{
+    background-color: #1ca1d6;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: left;
+}
